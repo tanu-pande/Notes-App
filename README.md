@@ -22,7 +22,9 @@ This is a simple **text-based notes manager** built using Java. It allows users 
 1. **Clone the repository**:
    
    git clone https://github.com/your-username/notes-app-java.git
-   cd notes-app-java
+
+    cd notes-app-java
+
 📂 File Structure
 
 
