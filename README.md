@@ -30,7 +30,7 @@ NotesApp.java        # Main Java class file
 notes.txt            # File where your notes are saved (auto-created)
 
 💡 Sample Output
-![image alt](
+![image alt](https://github.com/tanu-pande/Notes-App/blob/08ce00ad1656773054a9ce5a93dd17c6a3e59e50/Screenshot%202025-06-27%20150457.png)
 
 📄 License
 This project is open-source and available under the MIT License.
